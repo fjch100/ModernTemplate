@@ -1,5 +1,5 @@
 # ModernTemplate
-## A Windows Form modernn template to Start a C# program
+## A Windows Form modern template to Start a C# program
 
 ![Program:](Form1.jpg)
 
