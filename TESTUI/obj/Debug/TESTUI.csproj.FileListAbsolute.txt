@@ -1,0 +1,11 @@
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\bin\Debug\TESTUI.exe.config
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\bin\Debug\TESTUI.exe
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\bin\Debug\TESTUI.pdb
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.csproj.AssemblyReference.cache
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.Form1.resources
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.Properties.Resources.resources
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.csproj.GenerateResource.cache
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.csproj.CoreCompileInputs.cache
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.exe
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.pdb
+C:\Users\fjch1\source\repos\TESTUI\TESTUI\obj\Debug\TESTUI.Form2.resources
